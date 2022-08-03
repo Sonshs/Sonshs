@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Son
+- 👀 I’m interested in data...
+- 🌱 I’m currently learning data engineering.
+- 📫 Email: son.ite27s@gmail.com
